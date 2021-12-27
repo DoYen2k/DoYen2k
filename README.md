@@ -2,8 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2315DBF7&size=25&lines=My+name+is+Do+Xuan+Yen)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F53F&lines=My+Major+is+Information+Technology)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F53F&size=25&lines=My+Major+is+Information+Technology)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on IT
 - 🌱 I’m currently learning  at Can Tho University
@@ -15,7 +14,6 @@
     - Badminton
     - Football
   - Traveling
-
 
 # Programming languages
 ![java](https://camo.githubusercontent.com/9bc266c7872ad44bd417c64c9c6cbc02ef178711c0280196e593657c53c762f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d2532333030373339362e7376673f6c6f676f3d6a617661266c6f676f436f6c6f723d7768697465)
