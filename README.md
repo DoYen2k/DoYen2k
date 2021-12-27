@@ -28,18 +28,12 @@
 ![CSS](https://camo.githubusercontent.com/c8733604360c25e4cf34c8415bf9093104206dccd164b2a1cd7d1e2711d4d4f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532532302d2532333135373242362e7376673f6c6f676f3d63737333266c6f676f436f6c6f723d7768697465)
 ## Database and cloud hosting
 ![MYSQL](https://camo.githubusercontent.com/e863bc79abf7a53150665ce9eb1a93f4fb6183af46bc3fb345ee5562736eb23c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d2532333030662e7376673f6c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)
-![ORACLE](https://camo.githubusercontent.com/012aeb635c39a31e211f174d9bed64146c556464c6f8b6867938d7778fe51d95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f7261636c652532302d2532334630303030302e7376673f6c6f676f3d6f7261636c65266c6f676f436f6c6f723d7768697465)
-![SQLITE](https://camo.githubusercontent.com/602062954343bfa9d573f9cbf1ecfc68a42ace8379e97ffb791c782e10d82710/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c6974652d2532333037343035652e7376673f6c6f676f3d73716c697465266c6f676f436f6c6f723d7768697465)
 ## Software and Tools
 ![Visual Studio Code](https://camo.githubusercontent.com/f53628686f10ddabc221f47e91499adfaaed5663511900009deb71bd3c873236/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f6c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465)
 ![Stack Overflow](https://camo.githubusercontent.com/26e24924e6b305b420fe35cac175ab285d3d9faa7facd26e8a98c1f4256f768d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537461636b2532304f766572666c6f772d4645374131363f6c6f676f3d737461636b2d6f766572666c6f77266c6f676f436f6c6f723d7768697465)
 ![Git](https://camo.githubusercontent.com/8e7b90f62961f6df73ab269e33ed19fdb931af5a67088a66419d0778cd39c82d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742532302d2532334630353033332e7376673f6c6f676f3d676974266c6f676f436f6c6f723d7768697465)
-![Android Studio ](https://camo.githubusercontent.com/c2aba91675bbbd86828b02ad948f4fc5ea4b7e231f4ad23b5364b98c48cb14a4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f696425323053747564696f2d3030383637382e7376673f6c6f676f3d616e64726f69642d73747564696f266c6f676f436f6c6f723d7768697465)
-## Here is my web site [![hoanglinhplus](https://img.shields.io/badge/HLP-www.hoanglinhplus.cf-brightgreen)][hlp]
-[hlp]: https://www.hoanglinhplus.cf
 ## Contact with me:
-[![gmail](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/secretdeveloperisme)
-[![gmail](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linh072217@gmail.com)
-[![gmail](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hoanglinhplus)
-[![gmail](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/hoanglinhpluspage)
+[![gmail](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/doyen2k)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:doxuanyen2000@gmail.com)
+[![gmail](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/doyen333)
+[![gmail](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/doyen333)
