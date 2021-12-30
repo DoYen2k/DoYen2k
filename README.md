@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on IT
 - 🌱 I’m currently learning  at Can Tho University
 -  🔑 I'm currently working with **💻Web**
-- 💬 My email is : doxuanyen2000@gmail.com
+- 💬 My email is : doxuanyen.contact@gmail.com
 - ❤️ My favorites are:
   - Code
   - Sports
@@ -31,7 +31,7 @@
 ![Stack Overflow](https://camo.githubusercontent.com/26e24924e6b305b420fe35cac175ab285d3d9faa7facd26e8a98c1f4256f768d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537461636b2532304f766572666c6f772d4645374131363f6c6f676f3d737461636b2d6f766572666c6f77266c6f676f436f6c6f723d7768697465)
 ![Git](https://camo.githubusercontent.com/8e7b90f62961f6df73ab269e33ed19fdb931af5a67088a66419d0778cd39c82d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742532302d2532334630353033332e7376673f6c6f676f3d676974266c6f676f436f6c6f723d7768697465)
 ## Contact with me:
-[![gmail](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/doyen2k)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:doxuanyen2000@gmail.com)
+[![gmail](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dxyen)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:doxuanyen.contact@gmail.com)
 [![gmail](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/doyen333)
 [![gmail](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/doyen333)
